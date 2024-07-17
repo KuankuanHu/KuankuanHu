@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KuankuanHu
 - 👀 I’m interested in evolutionary genetics & genomics, computational biology
-- 🌱 I’m currently learning SLiM (forward evolution modeling)
+- 🌱 I’m currently learning SLiM (forward evolution model), regression models in R
 - 📫 How to reach me: khu2@brynmawr.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I double major in dance in college
+- ⚡ Fun fact: I double major in dance
 
 <!---
 KuankuanHu/KuankuanHu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
