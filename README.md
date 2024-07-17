@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KuankuanHu
-- 👀 I’m interested in evolutionary genetics & genomics, computational biology
+- 👀 I’m interested in evolutionary genetics, balancing selection (especially by sexual antagonism)
 - 🌱 I’m currently learning SLiM (forward evolution model), regression models in R
 - 📫 How to reach me: khu2@brynmawr.edu
 - 😄 Pronouns: she/her
