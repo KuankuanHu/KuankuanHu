@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuankuanHu
 - 👀 I’m interested in evolutionary genetics, balancing selection (especially by sexual antagonism)
 - 🌱 I’m currently learning SLiM (forward evolution model), regression models in R
-- 📫 How to reach me: khu2@brynmawr.edu
+- 📫 How to reach me: ugw2aa@virginia.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I double major in dance
 
