@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuankuanHu
 - 👀 I’m interested in evolutionary genetics and genomics, sexual conflict
-- 🌱 I’m currently learning gene regulatory models
-- 📫 How to reach me: ugw2aa@virginia.edu
+- 🌱 I’m currently learning gene regulatory networks and the evolution of gene expression
+- 📫 How to reach me: ugw2aa@virginia.edu, @hkkuan.bsky.social
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I double majored in dance in college
 
